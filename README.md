@@ -42,7 +42,7 @@ The following tools were used in this project:
 - [SVELTE](https://kit.svelte.dev/)
 
 
-Made with :heart: by <a href="https://github.com/{{jakubgaba}}" target="_blank">Me,Myself,I</a>
+Made with :heart: by <a href="https://github.com/jakubgaba" target="_blank">Me,Myself,I</a>
 
 &#xa0;
 
